@@ -1,5 +1,3 @@
-textfile has things that are planned
+this just exists as a place to keep him, incase i accidentally lose my files or something
 
-1 item coded but there are some sprites
-radiohead has character sprites
-i wish i could've done more but unfortunatley I can't
+If you wanna try playing him, just know, he is kinda incomplete right now
