@@ -1,0 +1,101 @@
+RADIOHEAD!!!!!!
+
+characters
+
+RadioHead 
+
+Stats - 1.5 damage, 0.8x damage multiplier, 2.3 fire rate, 0.8x fire rate multiplier, 1 speed, 8 range, 1.1x range multiplier, 2 shot speed, 0 luck
+
+Starts with 1 red heart and 2 charge hearts, does not cry instead releases sound waves that has initially has a 45° arc, which gets weaker and wider as it travels, since it's sound it has piercing and spectral, it cannot use regular trinkets, instead it starts with an active item called recorder which automatically absorbs a trinket and fills 1 charge, the more charges it has the better the disc it creates, golden trinkets gives 2 charges, micro batteries doesnt give anything and mini batteries or charge hearts give 1 charge, maximum of 24 charges
+
+Can be used with at least 6 charges, the more charges it has the more likely he will get higher quality discs
+
+Car battery makes it have chance to increase disc quality by 1 after using it
+
+Charge hearts - its a permanent heart storage that contains 1 heart, if the container is emptied, make the active item usable (or fills 2 charges based of the active item) and becomes a drained heart that can only store half a heart, if isaac has a drained heart container, mini batteries will recharge the heart instead of going to the active item
+
+Birthright effect: recorder gains more charges from trinkets, using it has a 10(+luck)% chance to create an additional disc
+
+“The silent” aka tainted radiohead
+
+Design philosophy: His tainted version will feature dents, cracks, holes, and a open ribcage without a heart also hes rusty cuz hes old lmao
+
+Has no red hearts, and starts with 4 drained hearts, any items that gives red hearts instead gives charged hearts
+
+His base stats are way lower than his normal stats and he also -1 luck, for every charged heart he has his stats increase, he has the same soundwave attack, but its thinner and decays a little bit faster
+
+Birthright effect Supercharge: his stat boost acts like as if he already has 3 charge hearts, when a charged heart becomes drained he gets a burst of damage and fire rate
+
+Static aka tarnished radiohead
+
+This like tarnished characters ditch the historical references
+
+“Basking in the light is not enough, I must become it”
+
+Gimmick 1, Ego meter: “Confidence is key, but don’t let your ego ascend before you”
+
+The ego meter is basically a performance monitor, the better you play the higher it rises, when it’s full, it can still grow until it breaks the meter, when the meter breaks you lose your dogma
+
+Unlocks normal
+
+C. Rock (beat isaac) - 
+
+Active item (beat ???) - 
+
+Naughty lyrics (beat stan) - Isaac will occasionally “swear” and release a quick sound wave that has 2.4x his damage and has the same properties as radiohead’s soundwave attacks
+
+Lamb Horn (beat lamb) -
+
+Speaker baby (beat mega stan) - shoots a soundwave that arcs 30° and does 5 damage, it has pierce and spectral and gets wider and weaker as it travels
+
+Burning Clay (beat boss rush) -
+
+Megaphone (beat hush) - an orbital with a medium orbital radius, tears that pass through it gains 1.5x (2x with bff) damage, size and speed
+
+Recorder (beat ultra greed) -
+
+Blue +2 (beat ultra greedier) - creates 2 copies of your most recently consumed pill (if it is a gold pill, it will create the pill with the most recently consumed effect)
+
+Remix (beat delirium) -
+
+Mom’s voice (beat mother) - 
+
+Lil’ Choir (beat beast) - Entering a special room has a 1/10 chance to create a familiar from that rooms pool if the room has no familiar in its pool or has no items whatsoever, creates a random familiar from angel pool
+
+The Silent (tainted radiohead)
+
+Unlocks tainted
+
+Soul of Radiohead (beat hush and boss rush) -
+
+Bumbo fantrack (beat isaac, ???, stan and the lamb) -
+
+Amoeba (beat “mother”) - 
+
+Jukebox (beat mega stan) -
+
+(beat delirium) -
+
+Abraha’s heart (beat beast) -
+
+Wild Card? (beat greedier) - 
+
+Something cool (all hard mode marks) - 
+
+Static (Tarnished radiohead)
+
+Unlocks tarnished
+
+Passive item (beat Isaac, ???, stan, lamb) -
+
+Essence of radiohead (beat boss rush and hush) -
+
+WIld +10 (beat ultra greedier) - creates 10 pickups
+
+Passive item 2 (beat delirium) -
+
+Trinket (beat “mother”) -
+
+Passive item 3 (beat beast) -
+
+Static’s active item (all hardmode marks) -

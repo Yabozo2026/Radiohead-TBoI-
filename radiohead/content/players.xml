@@ -1,0 +1,11 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Abraha"
+        skin="character_abraha.png"
+        nameimage="playername_abraha.png"
+        hp="6"
+        armor="0"
+        portrait="playerportrait_abraha.png"
+        skinColor="-1"
+        items = "CD Burner"
+    />
+</players>

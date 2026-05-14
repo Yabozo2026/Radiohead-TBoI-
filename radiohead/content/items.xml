@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+    <!-- Collectibles -->
+    <active name="CD Burner" description="Make new records" gfx="cd_burner.png" maxcharges="6" quality="3" chargetype="special">
+    <passive name="Freedom" description="I can do anything" quality = "3">
+</items>

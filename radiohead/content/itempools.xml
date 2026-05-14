@@ -1,0 +1,39 @@
+<ItemPools>
+    <Pool Name = "treasure">
+    -- feline trinity
+    </Pool>
+    <Pool Name = "curse">
+    -- living in the night
+    </Pool>
+    <Pool Name = "planetarium">
+    -- so high
+    </Pool>
+    <Pool Name = "secret">
+        <Item Name="Freedom" Weight = "0.1" DecreaseBy = "0.1" RemoveOn = "0.09"/>
+    </Pool>
+    <Pool Name = "boss">
+    -- crusade
+    </Pool>
+    <Pool Name = "shop">
+    -- idk
+    </Pool>
+    <Pool Name = "angel">
+    -- angel wings
+    </Pool>
+    <Pool Name = "greedTreasure">
+    </Pool>
+    <Pool Name = "greedShop">
+    </Pool>
+    <Pool Name = "greedAngel">
+    </Pool>
+    <Pool Name = "greedCurse">
+    </Pool>
+    <Pool Name = "greedSecret">
+    </Pool>
+    <Pool Name = "ultraSecret">
+    -- velvet vanity
+    </Pool>
+    <Pool Name = "disc">
+        <Item Name="Freedom" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+    </Pool>
+</ItemPools>
